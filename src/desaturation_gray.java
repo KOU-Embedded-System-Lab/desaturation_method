@@ -1,7 +1,7 @@
 import java.awt.image.BufferedImage;
 
 /**
- * Created by asus on 01-Aug-17.
+ * Created by asus / Irma Dibra on 01-Aug-17.
  *
  */
 import java.io.*;
